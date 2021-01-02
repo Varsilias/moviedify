@@ -1,7 +1,11 @@
 # Moviedify
 
-<img src="public/img/moviedify.png" width="350" title="hover text">
-![Moviedify Image](public/img/moviedify.png)
+<!-- <img src="public/img/moviedify.png" width="350" title="hover text">. -->
+
+<!-- ![Moviedify Image](public/img/moviedify.png) -->
+
+![alt text](https://github.com/[danielokoronkwo-coder]/[moviedify]/blob/[main]/public/img/moviedify.png?raw=true)
+
 
 ## About Moviedify
 
