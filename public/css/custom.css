@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(15, 12, 59) !important;
+    color: #3290d1;
+}
+.toggler {
+    background-color: #3290d1 !important;
+}
+.card-body {
+    background-color: rgb(15, 12, 59) !important;
+}
+.card {
+    border: none !important;
+}
+.card-footer {
+    background-color: rgb(15, 12, 59) !important;
+    border: none !important;
+}
+/* .search-result {
+    padding: 0.25rem 1.25rem !important;
+} */
