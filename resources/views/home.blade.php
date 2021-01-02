@@ -3,7 +3,7 @@
     Home
 @endsection
 @section('content')
-<div class="container pt-2">
+<div class="container pt-2" id="popularMovies">
     <h3 class="font-weight-bold">Popular Movies</h3>
     <div class="row">
         @foreach ($popularMovies as $movie)

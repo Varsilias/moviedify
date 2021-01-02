@@ -11,7 +11,7 @@
             <!-- Left Side Of Navbar -->
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item">
-                    <a class="nav-link font-weight-bold" href="{{ url('/') }}">{{ __('Home') }}</a>
+                    <a class="nav-link font-weight-bold" href="#popularMovies">{{ __('Popular') }}</a>
                 </li>
 
                 <li class="nav-item">
@@ -26,6 +26,9 @@
             <!-- Right Side Of Navbar -->
             <ul class="navbar-nav ml-auto">
                 <!--Grid column-->
+                <li class="nav-item">
+                    <a class="nav-link font-weight-bold" href="{{ route('search') }}">{{ __('Search') }}</a>
+                </li>
                 {{-- <livewire:search-dropdown> --}}
             </ul>
         </div>

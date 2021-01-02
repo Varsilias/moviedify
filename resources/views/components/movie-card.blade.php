@@ -6,7 +6,7 @@
             </a>
             <div class="card-body">
             <a href="{{route('show', $movie['id'])}}">
-                <h5 class="card-title">{{$movie['title']}}</h5>
+                <h5 style="color: rgb(84, 19, 204)" class="card-title">{{$movie['title']}}</h5>
             </a>
             <p class="card-text">{{$movie['overview']}}</p>
             <p class="card-text">

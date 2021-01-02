@@ -121,4 +121,9 @@ class MovieController extends Controller
     {
         //
     }
+
+    public function showSearchPage()
+    {
+        return view('search');
+    }
 }

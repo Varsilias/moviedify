@@ -6,10 +6,10 @@
 <div class="container mt-4">
     <div class="row rounded shadow-lg mb-5">
         {{-- @foreach ($movie as $movie) --}}
-        <div class="col-md-5">
+        <div class="col-md-5 col-sm-12">
             <img src="{{'https://image.tmdb.org/t/p/w300'.$movie['poster_path']}}" alt="Movie Poster">
         </div>
-        <div class="col-md-7">
+        <div class="col-md-7 col-sm-12">
             <div class="card-body">
             <h4 class="card-title">{{$movie['title']}}</h4>
             <h6 class="text-muted font-weight-bold">
@@ -32,6 +32,8 @@
                         <h5 class="font-weight-bold">{{$crew['name']}}</h5>
                     {{$crew['job']}}
                     </div>
+                    @else
+                        @break
                     @endif
                 @endforeach
             </div>
@@ -45,6 +47,7 @@
     </div>
 </div>
 {{-- Movie details end here --}}
+
 <div class="container mt-4 p-2">
         <h3 class="font-weight-bold">Featured Cast</h3>
     <div class="row rounded shadow-lg mb-5">
@@ -59,6 +62,8 @@
                     </div>
                 </div>
             </div>
+            @else
+                @break
             @endif
         @endforeach
     </div>
@@ -74,6 +79,8 @@
                         <img src="{{'https://image.tmdb.org/t/p/w200'.$image['file_path']}}" class="card-img-top" alt="Cast">
                     </div>
                 </div>
+            @else
+                @break
             @endif
         @endforeach
     </div>
