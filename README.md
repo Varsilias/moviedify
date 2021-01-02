@@ -1,5 +1,6 @@
 # Moviedify
 
+<img src="public/img/moviedify.png" width="350" title="hover text">
 ![Moviedify Image](public/img/moviedify.png)
 
 ## About Moviedify
