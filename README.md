@@ -4,7 +4,7 @@
 
 <!-- ![Moviedify Image](public/img/moviedify.png) -->
 
-![alt text](https://github.com/[danielokoronkwo-coder]/[moviedify]/blob/[main]/public/img/moviedify.png?raw=true)
+![alt text](https://github.com/danielokoronkwo-coder/moviedify/blob/main/public/img/moviedify.png?raw=true)
 
 
 ## About Moviedify
