@@ -7,7 +7,7 @@
     <div class="row rounded shadow-lg mb-5">
         {{-- @foreach ($movie as $movie) --}}
         <div class="col-md-5 col-sm-12">
-            <img src="{{'https://image.tmdb.org/t/p/w300'.$movie['poster_path']}}" alt="Movie Poster">
+            <img style="width: 100%" src="{{'https://image.tmdb.org/t/p/w300'.$movie['poster_path']}}" alt="Movie Poster">
         </div>
         <div class="col-md-7 col-sm-12">
             <div class="card-body">
