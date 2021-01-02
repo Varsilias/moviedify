@@ -1,6 +1,6 @@
 # Moviedify
 
-![Moviedify Image](public/img/moviedify.png))
+![Moviedify Image](public/img/moviedify.png)
 
 ## About Moviedify
 
