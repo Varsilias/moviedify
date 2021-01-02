@@ -8,7 +8,6 @@
 
 <img src="https://github.com/danielokoronkwo-coder/moviedify/blob/main/public/img/moviedify.png?raw=true">
 
-
 ## About Moviedify
 
 Built for movie lovers **Moviedify** is a movie listing application that draws data from **TMDB** database. It shows the official poster of the movie, the title, rating, genre as well some description about the movie.
