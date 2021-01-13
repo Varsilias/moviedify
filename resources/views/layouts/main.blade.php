@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>@yield('title') | {{config('app.name', 'Moviedify')}}</title>
+        <title>@yield('title') | {{ 'Moviedify' }}</title>
         <!-- Favicon-->
         <link rel="icon" href="{{asset('img/favicon.png')}}" type="image/gif" sizes="16x16">
         <!-- Scripts -->
