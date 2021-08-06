@@ -1,12 +1,8 @@
 # Moviedify
 
-<!-- <img src="public/img/moviedify.png" width="350" title="hover text">. -->
-
-<!-- ![Moviedify Image](public/img/moviedify.png) -->
-
-<!-- ![alt text](https://github.com/danielokoronkwo-coder/moviedify/blob/main/public/img/moviedify.png?raw=true) -->
-
 <img src="https://github.com/danielokoronkwo-coder/moviedify/blob/main/public/img/moviedify.png?raw=true">
+
+## [Link to Live Project](https://moviedify.herokuapp.com)  
 
 ## About Moviedify
 
@@ -18,7 +14,7 @@ You can also watch the trailer of the movie your choice before going ahead to do
 
  If you find this repo helpful feel free to let me know on all or any of my social media handle.
 
-- [Daniel Okoronkwo On Twitter](https://twitter.com/@Abadeveloper)
+- [Daniel Okoronkwo On Twitter](https://twitter.com/@varsilias)
 - [Daniel Okoronkwo On LinkedIn](https://www.linkedin.com/in/daniel-okoronkwo-a0a0821b2)
 - [Daniel Okoronkwo on Facebook](https://www.facebook.com/daniel.okoronkwo.52)
 - [Daniel Okoronkwo on GitHub](https://github.com/danielokoronkwo-coder)
